@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Caesar_cipher_left_shift_of_3.svg/800px-Caesar_cipher_left_shift_of_3.svg.png" alt="Cifrado Clásico" width="700"/>
+<img src="https://files.catbox.moe/mn49u1.jpeg" alt="Cifrado Clásico" width="700"/>
 </p>
 
 <a href="https://github.com/Alba070503/Cifrado-Clasico"><img title="Stars" src="https://img.shields.io/github/stars/Alba070503/Cifrado-Clasico?color=blue&style=flat-square" /></a>
